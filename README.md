@@ -3,15 +3,15 @@
 
 **This is what the project was based on a fake company. **
 
-Company: Wanted Brothers Studios
+### Company: Wanted Brothers Studios
 
-Problem: Identify the correlation between movie characteristics and user sentiment. 
+### Problem: Identify the correlation between movie characteristics and user sentiment. 
 
-Problem description and summary
+#### Problem description and summary
 Wanted Brothers Studios' marketing team has tasked the data analytics team with investigating the correlation between user sentiment and specific movie characteristics using data from the Internet Movie Database (IMDB). The primary goal is to analyze user reviews and determine if specific movie attributes, such as genre and, move rating, run length, are associated with more positive or negative sentiment. Additionally, the team aims to identify common characteristics shared by movies that receive predominantly negative reviews.
 By examining the relationship between sentiment and movie characteristics, the marketing team wishes to answer the following questions: Which genres consistently receive more positive sentiment from audiences? Are there specific genres or combinations of genres that tend to have higher rates of negative reviews? Do movies with certain run times or movie ratings have a higher likelihood of positive or negative sentiment? Are there any notable sentiment trends based on the movie's release year or decade?
 
-Problem reasoning
+##### Problem reasoning
 The marketing team is responsible for identifying which movies are marketable and have the potential to succeed in the coming years. Wanted Brothers Studios experienced a significant drop in box office sales due to the COVID-19 pandemic. Consequently, corporate has tasked the marketing team with vetting every movie idea to ensure profitability and maximize revenue.
 To achieve this, the marketing team will rely on the data the data analytics team discoveres. This data will create a comprehensive strategy to guide the marketing team in deciding which movie ideas to pursue. The team will evaluate each movie idea based on its potential for profitability, target audience, and market demand.
 The ultimate goal is to ensure that Wanted Brothers Studios invests its resources in movie projects that will likely succeed in the market. This strategy will allow the company to maximize its profits while minimizing the risks associated with producing movies that may not be successful. By leveraging data insights, the marketing team will be better equipped to make informed decisions and drive the company's success in the film industry.
